@@ -1,5 +1,20 @@
 # @mastra/factory
 
+## 0.12.0-alpha.12
+
+### Patch Changes
+
+- Update README to include accurate, up-to-date information ([#22858](https://github.com/mastra-ai/mastra/pull/22858))
+
+- Improve internal observational-memory processing. ([#22738](https://github.com/mastra-ai/mastra/pull/22738))
+
+- Updated dependencies [[`e983f74`](https://github.com/mastra-ai/mastra/commit/e983f749873189f767f509eb33d1a3596c0f1c74), [`b40fa91`](https://github.com/mastra-ai/mastra/commit/b40fa91496d794e060494f9c0d2fe940912f9190), [`cedc25d`](https://github.com/mastra-ai/mastra/commit/cedc25d8c2dec005d8b10b6ce2d36feef1162ff0), [`9fdb3bc`](https://github.com/mastra-ai/mastra/commit/9fdb3bc0f9bfab5269b4f3045595e62323da5d3a)]:
+  - @mastra/slack@1.6.3-alpha.1
+  - @mastra/code-sdk@1.6.0-alpha.9
+  - @mastra/core@1.64.0-alpha.7
+  - @mastra/auth-studio@1.3.5-alpha.1
+  - @mastra/auth-workos@1.6.5-alpha.1
+
 ## 0.12.0-alpha.11
 
 ### Minor Changes
